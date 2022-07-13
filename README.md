@@ -38,3 +38,4 @@ Make a change to your application (e.g. change some HTML in IndexPage). Commit, 
 Now make a change to QueryProcessor (and its corresponding unit test) to make the app respond to a new query.
 When the tests pass, commit, push, and deploy again.
 Try intentionally breaking the build to make sure that only successful builds are deployed.
+
